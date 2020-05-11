@@ -1,0 +1,22 @@
+LearnerName        :       kamva
+Session Date       :       17/10/2019 11:38
+Mode               :       Testing Mode
+Topic              :       Subtraction
+#Questions         :       2
+-----------------------------------------
+Questions
+-----------------------------------------
+
+: Your Answer was: 2 : Correct.
+: Your Answer was: 4 : Incorrect.
+
+-----------------------------------------
+Summary
+-----------------------------------------
+#Questions         :       2
+#Attempted         :       2
+#Passed            :       1
+Score              :       1/2
+
+-----------------------------------------
+
